@@ -3398,7 +3398,7 @@ MonoBehaviour:
     m_Bits: 256
   stopNaNPropagation: 1
   finalBlitToCameraTarget: 0
-  antialiasingMode: 1
+  antialiasingMode: 0
   temporalAntialiasing:
     jitterSpread: 0.75
     sharpness: 0.25
@@ -4447,8 +4447,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 100, y: 136.95642, z: 100}
-  m_Center: {x: 0, y: 18.47821, z: 15.383102}
+  m_Size: {x: 108.15225, y: 62.2381, z: 84.269485}
+  m_Center: {x: 10.170258, y: 30.61905, z: 0.8086853}
 --- !u!114 &1634640802
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4463,7 +4463,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sharedProfile: {fileID: 11400000, guid: 1b1ca00259ff930499ebcdc95bbefd9a, type: 2}
   isGlobal: 0
-  blendDistance: 7.88
+  blendDistance: 0
   weight: 1
   priority: 0
 --- !u!4 &1634640803
